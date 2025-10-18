@@ -13,8 +13,7 @@ body {
 }
 
 ul {
-  max-height: 200px;
-  border: 1px solid;
+  height: 200px;
   display: flex;
   gap: 1rem;
   flex-direction: column;
